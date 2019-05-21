@@ -1,0 +1,396 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>国家药品监督管理局医疗器械技术审评中心----最新要闻</title>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type"><base><link rel="stylesheet" type="text/css" href="../wbppcss/wbpp.css"><link rel="stylesheet" type="text/css" href="../css/spstyle.css">
+<meta name="GENERATOR" content="MSHTML 9.00.8112.16684"><!--[if lt IE 9]><script r='m'>document.createElement("section")</script><![endif]--></head>
+<body>
+<center><table cellpadding="0">
+<tbody>
+<tr>
+<td><img src="../images/top.jpg"></td></tr>
+<tr height="1">
+<td bgcolor="#ffffff"></td></tr>
+<tr height="41">
+<td background="../images/menumidbg.gif">
+<table cellpadding="0" width="1003">
+<tbody>
+<tr>
+<td align="left"><img src="../images/menuleftbg.gif"></td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" width="993">
+<tbody>
+<tr>
+<td class="menu" width="81"><a href="../CL0001/">首页</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0003/">中心建设</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menufirst" width="81"><a href="../CL0004/">最新要闻</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0005/">工作动态</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0006/">公告通知</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0007/">法规文件</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0008/">中心规章</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0009/">指导原则</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0010/">审评论坛</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="https://www.cmde.org.cn/schedule/scheduleSearch_jym.jsp">办事大厅</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="91"><a href="../CL0039/">数据库查询</a></td>
+<td><img src="../images/menuline.gif"></td>
+<td class="menu" width="81"><a href="../CL0013/">网站地图</a></td></tr></tbody></table></td>
+<td align="right"><img src="../images/menurightbg.gif"></td></tr></tbody></table></td></tr></tbody></table> 
+<table border="0" cellpadding="0" width="1003">
+<tbody>
+<tr height="35">
+<td width="110" align="center">滚动新闻：</td>
+<td width="423" align="left">
+<marquee onmouseover="this.stop()" onmouseout="this.start()" height="14" width="412" scrollamount="5" scrolldelay="140"><table cellspacing="0" cellpadding="0" class=""><tbody><tr class=""><td class="ListColumnClass1"><a href="../CL0002/19109.html" target="_blank"><font style="" color="red"><nobr>关于医疗器械注册电子申报信息系统数字认证（CA）证书申领有关事宜的通知</nobr></font>
+</a>
+<span class="listtddate1">
+</span>
+
+</td>
+<td class="listnew1">
+</td>
+<td colspan="2" class="ListColumnClass1"><a href="../CL0002/111.html" target="_blank"><font style="" color=""><nobr>欢迎您访问国家药品监督管理局医疗器械技术审评中心网站</nobr></font>
+</a>
+<span class="listtddate1">
+</span>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+</marquee></td>
+<td width="330"><table cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td><img src="../images/erjisearchb.gif"></td>
+<td>站内搜索&nbsp;</td>
+<td><input style="BORDER-RIGHT: #6a9bc2 1px solid; BORDER-TOP: #6a9bc2 1px solid; BORDER-LEFT: #6a9bc2 1px solid; WIDTH: 200px; BORDER-BOTTOM: #6a9bc2 1px solid; HEIGHT: 21px" name="qryValue"></td>
+<td><input onclick="javascript:window.open('../CL0086/');" type="image" src="../images/searchbutbg.gif" value="搜索" name="Submit" target="_blank"></td></tr></tbody></table> </td>
+<td width="140" align="center">
+<script language="javascript" src="../js/topdate.js"></script><font color="#000000">2019年5月21日&nbsp;星期二&nbsp;</font>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" width="1003">
+<tbody>
+<tr valign="top">
+<td style="BACKGROUND: url(../images/erjileftbg.gif)" width="220"><table border="0" cellspacing="0" cellpadding="0" width="220">
+<tbody>
+<tr>
+<td><a href="../CL0012/" target="_blank"><img src="../images/lbanshitop.jpg"></a></td></tr>
+<tr valign="top">
+<td background="../images/erjileftbg.gif" align="center">
+<table border="0" cellpadding="0" width="194">
+<tbody>
+<tr>
+<td><a href="http://www.cmde.org.cn/schedule/scheduleSearch_jym.jsp" target="_blank"><img src="../images/bsh_spjdcx.jpg"></a></td></tr>
+<tr height="20">
+<td></td></tr>
+<tr>
+<td><a href="../CL0118/" target="_blank"><img src="../images/bsh_splch.jpg"></a></td></tr>
+<tr height="20">
+<td></td></tr>
+<tr>
+<td><a href="../CL0038/" target="_blank"><img src="../images/bsh_wjxz.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></td>
+<td width="15"></td>
+<td valign="top" width="768">
+<table border="0" cellpadding="0" width="100%">
+<tbody>
+<tr height="35">
+<td class="weizhi">当前位置：<a href="../CL0001/">网站首页</a>&nbsp;&gt;&gt;&nbsp;最新要闻</td></tr>
+<tr height="10">
+<td></td></tr></tbody></table>
+<table style="BORDER-LEFT: #d6d6d6 1px solid; BORDER-TOP: #d6d6d6 1px solid; BORDER-RIGHT: #d6d6d6 1px solid" border="0" cellpadding="0" width="100%">
+<tbody>
+<tr height="700" valign="top">
+<td align="center">
+<table border="0" cellpadding="0" width="736">
+<tbody>
+<tr height="10">
+<td></td></tr>
+<tr>
+<td background="../images/erjititlebg.gif">
+<table border="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="40"><img src="../images/erjititlebiao.gif"></td>
+<td class="erjititlefont">最新要闻</td></tr>
+<tr height="2">
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#06519a"></td></tr></tbody></table></td></tr>
+<tr valign="top">
+<td class="erjistyle"><table cellspacing="0" cellpadding="0" class=""><tbody><tr class=""><td class="ListColumnClass5"><a href="../CL0004/19109.html" target="_blank"><font style="" color="red">关于医疗器械注册电子申报信息系统数字认证（CA）证书申领有关事宜的通知</font>
+</a>
+<span class="listtddate5">(2019-05-07)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19162.html" target="_blank"><font style="" color="">医疗器械注册电子申报信息系统启动将近</font>
+</a>
+<span class="listtddate5">(2019-05-17)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19140.html" target="_blank"><font style="" color="">关于举办第二期医疗器械注册电子申报信息系统专题公益培训班的通知</font>
+</a>
+<span class="listtddate5">(2019-05-10)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19079.html" target="_blank"><font style="" color="">关于公开征求《输注产品锐器刺伤防护装置要求与评价技术指导原则（征求意见稿）》意见的通知</font>
+</a>
+<span class="listtddate5">(2019-04-30)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19080.html" target="_blank"><font style="" color="">关于征集参与编制已知可沥滤物允许限值确定技术审查指导原则工作相关企业及单位信息的通知</font>
+</a>
+<span class="listtddate5">(2019-04-30)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr><td class="distance5" colspan="3">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19078.html" target="_blank"><font style="" color="">关于公开征求《已知可沥滤物测定方法验证及确认技术审查指导原则（征求意见稿）》意见的通知</font>
+</a>
+<span class="listtddate5">(2019-04-30)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19065.html" target="_blank"><font style="" color="">医疗器械优先审批申请审核结果公示（2019年第5号）</font>
+</a>
+<span class="listtddate5">(2019-04-28)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19066.html" target="_blank"><font style="" color="">创新医疗器械特别审查申请审查结果公示（2019年第5号）</font>
+</a>
+<span class="listtddate5">(2019-04-28)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19064.html" target="_blank"><font style="" color="">器审中心与四川省药监局签署推进医疗器械审评审批能力提升合作协议</font>
+</a>
+<span class="listtddate5">(2019-04-28)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19062.html" target="_blank"><font style="" color="">主动创新！“中国器审”企业服务功能再出发</font>
+</a>
+<span class="listtddate5">(2019-04-26)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr><td class="distance5" colspan="3">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19061.html" target="_blank"><font style="" color="">创新背景下，器械临床评价工作加速奔跑</font>
+</a>
+<span class="listtddate5">(2019-04-26)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19060.html" target="_blank"><font style="" color="">器审中心牵头智能化医疗器械产业科技创新服务平台及应用研究国家重点项目在京启动</font>
+</a>
+<span class="listtddate5">(2019-04-26)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19033.html" target="_blank"><font style="" color="">关于公开征求《口腔数字印模仪注册技术审查指导原则（征求意见稿）》意见的通知</font>
+</a>
+<span class="listtddate5">(2019-04-24)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19017.html" target="_blank"><font style="" color="">器审中心成功举办中丹医疗器械监管交流研讨会</font>
+</a>
+<span class="listtddate5">(2019-04-18)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19016.html" target="_blank"><font style="" color="">关于2019年5月～6月医疗器械注册受理前技术问题咨询工作安排的通告（2019年第3号）</font>
+</a>
+<span class="listtddate5">(2019-04-17)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr><td class="distance5" colspan="3">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/19015.html" target="_blank"><font style="" color="">器审中心关于对外咨询工作的通告（2019年第2号）</font>
+</a>
+<span class="listtddate5">(2019-04-17)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/18998.html" target="_blank"><font style="" color="">关于公开征求医疗器械、体外诊断试剂注册申请项目立卷审查标准意见的通知</font>
+</a>
+<span class="listtddate5">(2019-04-12)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/18997.html" target="_blank"><font style="" color="">关于“医疗器械临床评价”协调项目成果文件草案公开征求意见的通知</font>
+</a>
+<span class="listtddate5">(2019-04-12)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/18980.html" target="_blank"><font style="" color="">医疗器械优先审批申请审核结果公示（2019年第4号）</font>
+</a>
+<span class="listtddate5">(2019-04-10)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+<tr class=""><td class="ListColumnClass5"><a href="../CL0004/18975.html" target="_blank"><font style="" color="">器审中心积极备战 AI医疗器械注册高峰</font>
+</a>
+<span class="listtddate5">(2019-04-04)
+</span>
+
+</td>
+<td class="listnew5">
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+<table cellspacing="0" cellpadding="0" class="pagestab5"><tbody><tr class="wbppspacetr"><td class="wbppspacetd" colspan="10">
+</td>
+
+</tr>
+<tr><td class="pageTdSTR5">第1页/共48页
+</td>
+<td class="pageTdSTR5">共956条
+</td>
+<td class="pageTd5"><a href="index.html">首页
+</a>
+
+</td>
+<td class="pageTdF5"><a href="index.html">上一页
+</a>
+
+</td>
+<td class="pageTdE5"><a href="index_1.html">下一页
+</a>
+
+</td>
+<td class="pageETd5"><a href="index_47.html">尾页
+</a>
+
+</td>
+<td class="pageTdGO5">跳转<input type="text" class="pageGOText5" id="gopage_1558075744206" name="gopage">
+</td>
+<td class="pageTdGOTB5"><script src="../js/wbppjstoos.js" type="text/javascript"></script><input class="pageGOButton5" type="button" value="GO" onclick="gopage(document.getElementById('gopage_1558075744206').value,'48');">
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+ </td></tr></tbody></table></td></tr></tbody></table></td></tr>
+<tr>
+<td><img src="../images/erjibotbg.gif"></td>
+<td width="15"></td>
+<td style="BORDER-BOTTOM: #d6d6d6 1px solid; BORDER-LEFT: #d6d6d6 1px solid; BORDER-RIGHT: #d6d6d6 1px solid" width="766"></td></tr></tbody></table>
+<table border="0" cellpadding="0" width="1003">
+<tbody>
+<tr>
+<td><table border="0" cellpadding="0" width="1003">
+<tbody>
+<tr height="10">
+<td></td></tr>
+<tr height="34">
+<td class="botfont" bgcolor="#ecebeb" align="center"><a href="../CL0014/" target="_blank">使用指南</a>&nbsp;|&nbsp;<a href="../CL0013/" target="_blank">网站地图</a></td></tr>
+<tr height="1">
+<td></td></tr>
+<tr height="95">
+<td style="LINE-HEIGHT: 20px" bgcolor="#f9f9f9" align="center">地址：北京市海淀区气象路50号院1号楼 邮编：100081 电话：010-86452721<br>本站由国家药品监督管理局医疗器械技术审评中心主办 版权所有 未经许可禁止转载或建立镜像<br>Copyright 2007-2019 CMDE All Rights Reserved<br>备案序号：<a href="http://www.miibeian.gov.cn/" target="_blank"><font color="#800080"><u>京ICP备08100530号</u></font></a><br></td></tr></tbody></table></td></tr></tbody></table></center></body></html>
